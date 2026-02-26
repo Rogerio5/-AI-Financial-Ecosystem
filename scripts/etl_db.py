@@ -18,7 +18,7 @@ def run_etl():
     if df.empty:
         print("Nenhuma transação encontrada.")
         return
-    df.to_csv(out_csv, index=False)
+    df.to_csv(out_csv, index=False, encoding="utf-8")
     print(f"ETL concluído. CSV gerado em: {out_csv}")
 
 if __name__ == "__main__":
