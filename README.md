@@ -1,4 +1,4 @@
-# 🏦 AI Financial Ecosystem: Arquitetura Lakehouse Multimodal com Agentes Autônomos e Inteligência de Crédito2
+# 🏦 AI Financial Ecosystem: Arquitetura Lakehouse Multimodal com Agentes Autônomos e Inteligência de Crédito
 
 ## End-toEnd Banking Solution | OCI Certified | Databricks, Spark, RAG & Vision AI
 
